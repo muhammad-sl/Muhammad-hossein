@@ -1,0 +1,5 @@
+name=input("what is your name?")
+if name.startswith("M") and name.endswith("n"): 
+   print("welcome sir")
+else:
+   print("sorry we cant let you come in")
